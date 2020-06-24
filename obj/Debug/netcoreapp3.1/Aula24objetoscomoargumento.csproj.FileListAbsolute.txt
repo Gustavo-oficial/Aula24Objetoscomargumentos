@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\bin\Debug\netcoreapp3.1\Aula24objetoscomoargumento.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula24objetoscomoargumento\obj\Debug\netcoreapp3.1\Aula24objetoscomoargumento.genruntimeconfig.cache
